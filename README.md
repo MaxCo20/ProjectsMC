@@ -13,7 +13,9 @@
   
 ![image](https://github.com/MaxCo20/ProjectsMC/assets/161872379/40cf4596-97f1-44fd-b397-9ee9502a6fa0)  
 
+## Python-SQL projects
 
+- **Web scraping**: Using Yahoo finance website, extracting Netflix stock data for a specific period with the help of Pandas and BeatifulSoup libraries.
 
 
 
