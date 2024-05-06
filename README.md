@@ -16,6 +16,7 @@
 ## Python-SQL projects
 
 - **Web scraping**: Using Yahoo finance website, extracting Netflix stock data for a specific period with the help of Pandas and BeatifulSoup libraries.
+-  **Data file types**: Providing a general overview of the most popular file types to work with on Python.
 
 
 
