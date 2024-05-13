@@ -11,7 +11,13 @@
 
 - **Farmers Market Buffer distance**: Pinpointing farm producer location with surrounding Farmers Market in a specific distance.
   
-![image](https://github.com/MaxCo20/ProjectsMC/assets/161872379/40cf4596-97f1-44fd-b397-9ee9502a6fa0)  
+![image](https://github.com/MaxCo20/ProjectsMC/assets/161872379/40cf4596-97f1-44fd-b397-9ee9502a6fa0)
+
+- **Creating a Heat Risk Index for Athens**: Creating a Heat Risk Index using variables like Land Surface Temperature, Tree Canopy Coverage, and Population Density that prioritizes areas for tree planting as part of an adaptation plan to help cool the city.
+
+![image](https://github.com/MaxCo20/ProjectsMC/assets/161872379/35361212-359a-4d7b-8b03-2a8e8b8a1118)
+
+
 
 ## Python-SQL projects
 
